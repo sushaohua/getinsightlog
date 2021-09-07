@@ -1,2 +1,3 @@
 # getinsightlog
-Get insight log by python script.
+Get knowin inSight log by python script.
+
